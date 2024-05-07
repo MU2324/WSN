@@ -1,0 +1,14 @@
+Practical No. 07 : Implement a Wireless sensor network simulation.
+
+Add one pc,laptop,tablet,smartphone,Access point- pt
+ 
+Automatically connect when wireless adapter add
+ 
+Setup access point SSID and WEP key
+ 
+Connect pc and laptop to access point
+
+Setup tablet and smartphone
+ 
+Simulation
+ 

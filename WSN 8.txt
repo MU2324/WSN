@@ -1,0 +1,18 @@
+PRACTICAL NO 8: Create MAC protocol simulation implementation for wireless sensor Network.
+
+
+Take Devices. (WRT300N Router,Smartphone-PT,TabletPC-PT,3PC and 3Routers.)
+
+Select PC-Physical-CPU Off-Remove Port and Add Default-Port(For each PC.)
+
+Select Laptop-Physical-Switch Off-Remove Port and Add Default-Port(For each Laptop.)
+ 
+Select PC-Config-Wireless0-Copy MAC Address.(For each device.)
+
+Select Wireless Router-GUI-Wireless-Wireless MAC Filter-Enabled.
+And Select Option for Permit PC’s to access wireless network.
+ 
+All Wireless Client List.(List of devices whose MAC addresses are added to access wireless network.)
+ 
+Packet Send Successfully.
+ 

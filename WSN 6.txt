@@ -1,0 +1,52 @@
+Practical No 6
+Create a basic MANET implementation simulation for Packet animation and Packet Trace
+
+
+Install All required devices
+
+After that  configure all devices
+
+Configuration of AC
+
+After this configuratuion click on Advanced -- I/O Config
+
+Set Network Adapter
+
+Perform this configurations step for configured all devices
+
+Configured HomeGateway
+ 
+Copy SSID
+
+Configuration of Smartphone
+ 
+Paste  here copied SSID
+
+Smartphone -- Desktop -- IOT Monitor
+ 
+Copy this IoT Server Address
+
+Open SmartPhone -- Desktop --Web Browser
+
+Paste here copied server address
+ 
+Fill Username and Password for login
+ 
+Apply rule for MANET
+
+1) When window open light will be off  
+2) When window close light will be on
+
+ Output 
+ window open light off
+
+When window close light will be on
+ 
+1) When door was lock then AC will be On
+2) When the door was unlock Then Ac will be Off
+
+Output - when door  lock AC will be on
+ 
+Output - when door Unlock AC will be off
+
+Overall Output when we are pass the packet smartphone to the other devices

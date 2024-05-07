@@ -1,0 +1,34 @@
+Practical No 4 : Create and Simulate a Simple AdHoc network
+
+
+Take A Two Tireless Router (WRT300N)
+
+Connect two Routers using Copper Cross Over Wire
+
+Choose Router0 - GUI 
+
+Choose Router0 - GUI -Wireless 
+Set Network Name (SSID) ( Computer Science )
+
+Choose Router0 - GUI -Wireless -Wireless Security
+Security mode =WPA2Personal
+Passphrase :Compter@13
+
+Click Administration -Remote Access - Enabled
+
+Create Another Network
+Choose Router1 - GUI - Wireless (set Network name(IT))
+ 
+Wireless Security
+Security mode =WPA2Personal
+Passphrase :information@13
+
+Click Administration -Remote Access - Enabled
+
+Add  4 PC’s
+
+Remove port and add Wireless port
+
+Configure all PC 
+
+ 

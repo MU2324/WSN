@@ -1,0 +1,11 @@
+PRACTICAL NO 05: Understanding, Reading and Analyzing Routing Table of a network.
+
+
+Establish a RIPv1 Network:
+
+Open Router  CLI Exit Enter Commands  ‘enable’  ‘show ip route’ Analyze the routing table
+ 
+Router 1 : enable > show ip table
+
+Router 3 : enable > show ip table
+ 

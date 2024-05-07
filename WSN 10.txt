@@ -1,0 +1,24 @@
+Practical No 10
+Create a mobile network using Cell Tower, Central Office Server, Web browser and Web Server. Simulate connection between them
+
+•	Take Devices  -:  SmartPhone, cell tower, CO server, Home router ,PT hub , Router-1941 , Server .
+
+•	Connect - 
+o	cell tower-CO server with coaxial cable 
+o	CO server – hub with  coper straight through 
+o	Home-router- hub with  copper crossover 
+o	Hub-router with copper crossover 
+o	Router – server with  copper cross over 
+o	
+ 
+
+•	Router 1941 Gigaethernet0/0 configuration 
+
+
+•	Home router configuration 
+
+•	Smart phone configuration 
+
+•	Router 1941 gigaethernet0/1 configuration 
+ 
+•	Server configuration 
